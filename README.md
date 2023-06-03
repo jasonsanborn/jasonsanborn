@@ -4,23 +4,23 @@ Included in GitHub will be code samples and personal projects. I'm not sure exac
 
 **My Skills**
 
-ASP.NET: ⭐⭐ Yes, I have experience here, but am so out of touch with it. I can read it and work with it, but it's changed a lot since I used it last.
-C#: ⭐⭐⭐⭐ Mostly coding in .NET 6.0. This is my go-to and strongest coding experience.
-HTML: ⭐⭐ I used to do web design starting with HTML 2.0 and stopped when XHTML 1.1 was still new. I still do some web work with HTML 5, but it really isn't a forte.
-JavaScript: ⭐⭐⭐ I've worked with JS since working with HTML, and have never gotten away from it. Haven't worked much with web/JavaScript frameworks.
-Microsoft Azure: ⭐ Azure Functions and Azure WebAPIs I do have some experience with. I am Microsoft certified in the basics of Azure.
-Microsoft Dynamics CE: ⭐⭐⭐⭐ I am Microsoft Certified and work almost exclusively in CE: Customizations, Configurations, Plugins (C#), Workflows, Web Resources (HTML, CSS, JavaScript).
-Microsoft Power Platform: ⭐⭐ CE is moving more toward Power Platform and Power Apps. I can create Flows and Model Driven Apps. I have limited familiarity with Canvas Apps as well.
-PHP: ⭐⭐ I used to modify WordPress and PHPBB. I can still work with it, but I prefer to let others handle it where possible.
-SQL: ⭐⭐⭐ I have worked with MS-SQL, MySql (MariaDB) and SQLite. I've built and edited tables, views and stored procedures. I've connected to SQL mostly with C#, but with PHP as well.
-VB.NET: ⭐⭐ Haven't worked with this in years, preferring C#, but this is where I started with ASP.NET 1.0.
+- ASP.NET: ⭐⭐ Yes, I have experience here, but am so out of touch with it. I can read it and work with it, but it's changed a lot since I used it last.  
+- C#: ⭐⭐⭐⭐ Mostly coding in .NET 6.0. This is my go-to and strongest coding experience.  
+- HTML: ⭐⭐ I used to do web design starting with HTML 2.0 and stopped when XHTML 1.1 was still new. I still do some web work with HTML 5, but it really isn't a forte.  
+- JavaScript: ⭐⭐⭐ I've worked with JS since working with HTML, and have never gotten away from it. Haven't worked much with web/JavaScript frameworks.  
+- Microsoft Azure: ⭐ Azure Functions and Azure WebAPIs I do have some experience with. I am Microsoft certified in the basics of Azure.  
+- Microsoft Dynamics CE: ⭐⭐⭐⭐ I am Microsoft Certified and work almost exclusively in CE: Customizations, Configurations, Plugins (C#), Workflows, Web Resources (HTML, CSS, JavaScript).  
+- Microsoft Power Platform: ⭐⭐ CE is moving more toward Power Platform and Power Apps. I can create Flows and Model Driven Apps. I have limited familiarity with Canvas Apps as well.  
+- PHP: ⭐⭐ I used to modify WordPress and PHPBB. I can still work with it, but I prefer to let others handle it where possible.  
+- SQL: ⭐⭐⭐ I have worked with MS-SQL, MySql (MariaDB) and SQLite. I've built and edited tables, views and stored procedures. I've connected to SQL mostly with C#, but with PHP as well.  
+- VB.NET: ⭐⭐ Haven't worked with this in years, preferring C#, but this is where I started with ASP.NET 1.0.  
 
 **Stars**
 
-⭐ - *Initiate* - Just starting to look at this. Very superficial knowledge. Google is my friend.
-⭐⭐ - *Novice* - I know enough to get around and do what needs to get done. Much Google-Fu is still required.
-⭐⭐⭐ - *Experienced* - The Force is strong in this one but some training still is required. Google is used to fill in gaps.
-⭐⭐⭐⭐ - *Expert* - I know a lot about this and can perform even more complex tasks. More innate knowledge, less Google.
+⭐ - *Initiate* - Just starting to look at this. Very superficial knowledge. Google is my friend.  
+⭐⭐ - *Novice* - I know enough to get around and do what needs to get done. Much Google-Fu is still required.  
+⭐⭐⭐ - *Experienced* - The Force is strong in this one but some training still is required. Google is used to fill in gaps.  
+⭐⭐⭐⭐ - *Expert* - I know a lot about this and can perform even more complex tasks. More innate knowledge, less Google.  
 ⭐⭐⭐⭐⭐ - *Master* - I know it all and keep up with all the changes to continue to know it all. Google comes to me for the information. Of course, I have nothing in this category, nor do I see myself ever having anything in this category. I do strive for it, though.
 
 "Those people who think they know everything are a great annoyance to those of us who do." Issac Asimov
