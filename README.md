@@ -5,7 +5,7 @@ Included in GitHub will be code samples and personal projects. I'm not sure exac
 **My Skills**
 
 - ASP.NET: ⭐⭐ Yes, I have experience here, but am so out of touch with it. I can read it and work with it, but it's changed a lot since I used it last.  
-- C#: ⭐⭐⭐⭐ Mostly coding in .NET 6.0. This is my go-to and strongest coding experience.  
+- C#: ⭐⭐⭐⭐ Mostly coding in .Framework 4.6+ and .NET 6.0+. This is my go-to and strongest coding experience.  
 - HTML: ⭐⭐ I used to do web design starting with HTML 2.0 and stopped when XHTML 1.1 was still new. I still do some web work with HTML 5, but it really isn't a forte.  
 - JavaScript: ⭐⭐⭐ I've worked with JS since working with HTML, and have never gotten away from it. Haven't worked much with web/JavaScript frameworks.  
 - Microsoft Azure: ⭐ Azure Functions and Azure WebAPIs I do have some experience with. I am Microsoft certified in the basics of Azure.  
